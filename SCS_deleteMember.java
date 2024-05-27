@@ -86,7 +86,7 @@ public class SCS_deleteMember extends Application{
 		
 		style();
 		
-		String jdbcURL = "jdbc:mysql://localhost/demodb";
+		String jdbcURL = "jdbc:mysql://localhost/gademodb";
 		String dbUsername = "root";
 		String dbPassword = "";
 		
